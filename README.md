@@ -4,4 +4,4 @@
 
 ##javascript
 
-[1.DES Encrypt by Javscript](https://github.com/echosoar/gencrypt/tree/master/javascript/des)
+[1.DES Encrypt by JavaScript Version@0.0.1](https://github.com/echosoar/gencrypt/tree/master/javascript/des)
